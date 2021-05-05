@@ -842,13 +842,6 @@ class SudokuSolverUI():
 
 
 
-''' TODO:
-	- add functionality to reset full grid
-	- add possibility for step-by-step solution of the grid ?
-'''
-
-
-
 # Enable or disable step-by-step solving mode (DEBUG mode)
 DEBUG = False
 
